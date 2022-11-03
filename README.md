@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @joseMontivero24  
--👨‍🎓 Tecnico Superior en Programación...      
-- 👀 Me interesa mucho la programación, desarrollo de software
-- 🌱 I’m currently  aprendiendo  programacion e ingles
+- 👋 Hola soy @joseMontivero24, además estoy recibido como Técnico Superior en Programación.       
+- 👀 Me interesa mucho la programación, desarrollo de softwaret y todo lo relacionado a las nuevas tecnologias.
+- 🌱 Actualmente sigo  mejorando mis habilidades blandas tanto como tecnicas.
 - 💞️ I’m looking to  colaborar  en proyectos  tanto Front-end como Back-end
 - 📫 How to reach me:
  email :  chipimontivero2019@gmail     
