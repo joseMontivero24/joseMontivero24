@@ -1,15 +1,11 @@
 <h1 align="center">Hola soy José Montivero</h1>
 <h3 align="center">Soy Técnico Superior en Programación / Front-End Developer</h3>
 
-<p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-profile-trofeo.vercel.app/?username=josemontivero24" alt="josemontivero24" / ></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jose montivero" target="blank"><img src="https://img. shields.io/twitter/follow/jose montivero?logo=twitter&style=for-the-badge" alt="jose montivero" /></a> </p>
-
 - 🔭 Actualmente estoy trabajando en **Me encuentro en la búsqueda laboral**
 
 - 🌱 Actualmente estoy aprendiendo **Sigo mejorando mis habilidades blandas y técnicas.**
 
-- 👯 Estoy buscando colaborar en **Proyectos Front y Atrás**
+- 👯 Estoy buscando colaborar en **Proyectos Front-End y Back-End
 
 - 🤝 Busco ayuda con **La búsqueda laboral**
 
