@@ -27,9 +27,16 @@
 💻Sass
 
 💻Bootstrap
+  
+💻Tailwind css
 
 💻JavasCript
 
 💻React
+  
+💻Node.js
 
+💻Express.js
+  
+💻MySQL
 </p>
