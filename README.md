@@ -14,6 +14,8 @@
 - 💬 Pregúntame sobre ** React, JavasCript, Next.js, Tailwind css, Node.js, HTML, CSS, Bootstrap, Sass entre otros... **
 
 - 📫 Cómo contactarme **chipimontivero2019@gmail.com**
+  
+- 📫 Contáctame por LinkedIn ** www.linkedin.com/in/jose-montivero-97code **
 
 - 📄 Trabaje Durante casi 9 meses como desarrollador freelance en Blue Horizon, utilicé react como principal tecnología.
 
