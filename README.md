@@ -1,19 +1,21 @@
 <h1 align="center">Hola soy José Montivero</h1>
-<h3 align="center">Soy Técnico Superior en Programación / Front-End Developer</h3>
+<h3 align="center">Soy Técnico Superior en Programación / FullStack Web Developer / Front-End Developer</h3>
 
-- 🔭 Actualmente estoy trabajando en **Me encuentro en la búsqueda laboral**
+- 🔭 Actualmente ** Me encuentro en la búsqueda laboral en una empresa de desarrollo de software que me permita aplicar mis conocimiento **
+  
+- 👨‍🏫 Actualmente ** dicto clases en una Tecnicatura de desarrollo de software **
 
-- 🌱 Actualmente estoy aprendiendo **Sigo mejorando mis habilidades blandas y técnicas.**
+- 🌱 Actualmente ** Sigo mejorando mis habilidades blandas y técnicas. **
 
-- 👯 Estoy buscando colaborar en **Proyectos Front y Atrás**
+- 👯 Estoy buscando colaborar en **Proyectos Frontend y Backend**
 
 - 🤝 Busco ayuda con **La búsqueda laboral**
 
-- 💬 Pregúntame sobre **React, JavasCript, HTML, CSS, Bootstrap, Sass entre otros...**
+- 💬 Pregúntame sobre ** React, JavasCript, Next.js, Tailwind css, Node.js, HTML, CSS, Bootstrap, Sass entre otros... **
 
-- 📫 Cómo contactarme **chipimontivero2019 @gmail.com**
+- 📫 Cómo contactarme **chipimontivero2019@gmail.com**
 
-- 📄 Conoce mis experiencias [pronto](pronto)
+- 📄 Trabaje Durante casi 9 meses como desarrollador freelance en Blue Horizon, utilicé react como principal tecnología.
 
 - ⚡ Dato curioso **Programar Programar❤**
 
@@ -32,7 +34,9 @@
 
 💻JavasCript
 
-💻React
+💻React.js
+
+💻Next.js
   
 💻Node.js
 
