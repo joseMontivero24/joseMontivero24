@@ -14,7 +14,7 @@
   
 - 📫 Contáctame por LinkedIn ** www.linkedin.com/in/jose-montivero-97code **
 
-- 📄 Trabaje Un poco más de 2 años en Accenture como desarrollador FullStack.
+- 📄 Trabajé un poco más de 2 años en Accenture como desarrollador FullStack.
 
 - ⚡ Dato curioso **Programar Programar❤**
 
